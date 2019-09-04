@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'org.yanagimoto.extensions'
-version '0.0.1-SNAPSHOT'
+version = '0.0.1'
 project.ext {
   artifactId = 'extensions'
 }
